@@ -1,4 +1,4 @@
-# SLIDER-swiper-JS
+# GROUP-SLIDER-swiper-JS-
 
 
 Small Slider with JS-Library, CSS & HTML.
@@ -9,7 +9,7 @@ Mobile first .
 
 
 ## Demo
-https://majestic-licorice-8b2fe2.netlify.app/
+https://groupslideswipper-js.netlify.app/
 
 ## Appendix
 
