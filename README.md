@@ -5,7 +5,7 @@ Small Slider with JS-Library, CSS & HTML.
 Mobile first .
 
 ## Screenshots
-![App Screenshot](screenshot/SCR-20240325-rfnr.png )
+![App Screenshot](screenshot/Screenshot 2024-03-27 at 2.04.59 PM.jpg.jpeg )
 
 
 ## Demo
