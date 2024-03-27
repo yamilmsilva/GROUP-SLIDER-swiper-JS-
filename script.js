@@ -5,11 +5,11 @@ const swiper = new Swiper('.swiper-hero', {
     direction: 'horizontal',
     loop: true,
     allowTouchMove: true,
-    // autoplay: {
-    //     delay:1000,
-    //     delay:10000,
-    //     pauseOnMouseEnter: true,
-    //     },
+    autoplay: {
+        delay:1000,
+        // delay:10000,
+        pauseOnMouseEnter: true,
+        },
   
     // If we need pagination
    
