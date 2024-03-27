@@ -5,11 +5,11 @@ Small Slider with JS-Library, CSS & HTML.
 Mobile first .
 
 ## Screenshots
-![App Screenshot](screenshot/Screenshot 2024-03-27 at 2.04.59 PM.jpg.jpeg )
+![App Screenshot]( screenshot/59 PM.jpg.jpeg)
 
 
 ## Demo
-https://slider-swiper-js.netlify.app/
+https://majestic-licorice-8b2fe2.netlify.app/
 
 ## Appendix
 
